@@ -7179,9 +7179,9 @@ const reply = `
     break
 case 'السورس': case 'script': {
 teks = `⋆ تم تطوير وبرمجه هذا السورس •
-⋆ بواسطه عبدالله محمد •
+⋆ بواسطه إسلام حسن •
 ⋆ يمكنك التواصل مع المبرمج عبر التيلجرام ⤌⤈
- t.me/A_M_030
+ http://t.me/eslamboho
 تبعني عبر اليوتيوب ⤌⤈
 https://chat.whatsapp.com/BanFVzHhZa2HZhXCwtvDDn
 واشترك وفعل الجرس وانتظر شروحات للبرمجه..🌍🔥`
@@ -7189,7 +7189,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg`},
+image: {url: `https://telegra.ph/file/3632896f9e0bcab635f77.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -7197,18 +7197,18 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:"ᴇʟɢᴀᴢᴀʀ ʙᴏт",
-body: "سورس الجزار", 
+body: "سورس اسلام", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg',
-sourceUrl: "https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg"
+mediaUrl: 'https://telegra.ph/file/3632896f9e0bcab635f77.jpg',
+sourceUrl: "https://telegra.ph/file/3632896f9e0bcab635f77.jpg"
 }}
 }
 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
 }
             break
             
-case 'جزار':
+case 'اسلام':
 if (!text) return m.reply(`هلا يحب`)
 break
                         
@@ -8403,7 +8403,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg`},
+image: {url: `https://telegra.ph/file/3632896f9e0bcab635f77.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -8411,11 +8411,11 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:"ᴇʟɢᴀᴢᴀʀ ʙᴏт",
-body: "سورس الجزار", 
+body: "سورس إسلام", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg',
-sourceUrl: "https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg"
+mediaUrl: 'https://telegra.ph/file/3632896f9e0bcab635f77.jpg',
+sourceUrl: "https://telegra.ph/file/3632896f9e0bcab635f77.jpg"
 }}
 }
 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -8461,7 +8461,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg`},
+image: {url: `https://telegra.ph/file/3632896f9e0bcab635f77.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -8469,11 +8469,11 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:"ᴇʟɢᴀᴢᴀʀ ʙᴏт",
-body: "سورس الجزار", 
+body: "سورس إسلام", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg',
-sourceUrl: "https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg"
+mediaUrl: 'https://telegra.ph/file/3632896f9e0bcab635f77.jpg',
+sourceUrl: "https://telegra.ph/file/3632896f9e0bcab635f77.jpg"
 }}
 }
 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -8546,7 +8546,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg`},
+image: {url: `https://telegra.ph/file/3632896f9e0bcab635f77.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -8554,11 +8554,11 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:"ᴇʟɢᴀᴢᴀʀ ʙᴏт",
-body: "سورس الجزار", 
+body: "سورس إسلام", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg',
-sourceUrl: "https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg"
+mediaUrl: 'https://telegra.ph/file/3632896f9e0bcab635f77.jpg',
+sourceUrl: "https://telegra.ph/file/3632896f9e0bcab635f77.jpg"
 }}
 }
 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -8613,7 +8613,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg`},
+image: {url: `https://telegra.ph/file/3632896f9e0bcab635f77.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -8621,11 +8621,11 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:"ᴇʟɢᴀᴢᴀʀ ʙᴏт",
-body: "سورس الجزار", 
+body: "سورس إسلام", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg',
-sourceUrl: "https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg"
+mediaUrl: 'https://telegra.ph/file/3632896f9e0bcab635f77.jpg',
+sourceUrl: "https://telegra.ph/file/3632896f9e0bcab635f77.jpg"
 }}
 }
 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -8674,7 +8674,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg`},
+image: {url: `https://telegra.ph/file/3632896f9e0bcab635f77.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -8682,11 +8682,11 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:"ᴇʟɢᴀᴢᴀʀ ʙᴏт",
-body: "سورس الجزار", 
+body: "سورس إسلام", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg',
-sourceUrl: "https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg"
+mediaUrl: 'https://telegra.ph/file/3632896f9e0bcab635f77.jpg',
+sourceUrl: "https://telegra.ph/file/3632896f9e0bcab635f77.jpg"
 }}
 }
 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -8726,7 +8726,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg`},
+image: {url: `https://telegra.ph/file/3632896f9e0bcab635f77.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -8734,11 +8734,11 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:"ᴇʟɢᴀᴢᴀʀ ʙᴏт",
-body: "سورس الجزار", 
+body: "سورس إسلام", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg',
-sourceUrl: "https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg"
+mediaUrl: 'https://telegra.ph/file/3632896f9e0bcab635f77.jpg',
+sourceUrl: "https://telegra.ph/file/3632896f9e0bcab635f77.jpg"
 }}
 }
 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -8814,7 +8814,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg`},
+image: {url: `https://telegra.ph/file/3632896f9e0bcab635f77.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -8822,11 +8822,11 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:"ᴇʟɢᴀᴢᴀʀ ʙᴏт",
-body: "سورس الجزار", 
+body: "سورس إسلام", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg',
-sourceUrl: "https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg"
+mediaUrl: 'https://telegra.ph/file/3632896f9e0bcab635f77.jpg',
+sourceUrl: "https://telegra.ph/file/3632896f9e0bcab635f77.jpg"
 }}
 }
 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -8871,7 +8871,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg`},
+image: {url: `https://telegra.ph/file/3632896f9e0bcab635f77.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -8879,11 +8879,11 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:"ᴇʟɢᴀᴢᴀʀ ʙᴏт",
-body: "سورس الجزار", 
+body: "سورس إسلام", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg',
-sourceUrl: "https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg"
+mediaUrl: 'https://telegra.ph/file/3632896f9e0bcab635f77.jpg',
+sourceUrl: "https://telegra.ph/file/3632896f9e0bcab635f77.jpg"
 }}
 }
 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -9170,7 +9170,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg`},
+image: {url: `https://telegra.ph/file/3632896f9e0bcab635f77.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -9178,7 +9178,7 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:"ᴇʟɢᴀᴢᴀʀ ʙᴏт",
-body: "سورس الجزار", 
+body: "سورس إسلام", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
 mediaUrl: 'https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg',
@@ -9201,7 +9201,7 @@ teks = `•╗ مرحبا ياعزيزي ⤌⤈
 •╣ مميزات البوت كثيره جدا 
 •╝ ويعمل بجودة فائقه وعاليه
 𓍹————————————𓍻
-𓆩قائمة اوامر سورس الجزار𓆪 
+𓆩قائمة اوامر سورس اسلام𓆪 
 𓍹————————————𓍻
 ( .م1 ) ☞ اوامر الاعضاء
 ( .م2 ) ☞ اوامر المالك
@@ -9218,7 +9218,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg`},
+image: {url: `https://telegra.ph/file/3632896f9e0bcab635f77.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -9226,11 +9226,11 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:"ᴇʟɢᴀᴢᴀʀ ʙᴏт",
-body: "سورس الجزار", 
+body: "سورس اسلام", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg',
-sourceUrl: "https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg"
+mediaUrl: 'https://telegra.ph/file/3632896f9e0bcab635f77.jpg',
+sourceUrl: "https://telegra.ph/file/3632896f9e0bcab635f77.jpg"
 }}
 }
 ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
