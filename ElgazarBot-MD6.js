@@ -6952,7 +6952,7 @@ case 'الغباء': {
             break
 case 'بوت': {
             	let lowq = `*عايز اي يبن المره العرص🤺:*\n*${runtime(process.uptime())}*`
-                let buttons = [{ buttonId: 'menu', buttonText: { displayText: 'الاوامر' }, type: 1 }]
+                let buttons = [{ buttonId: 'menu', buttonText: { displayText: 'اختار اوامر' }, type: 1 }]
                 await ElgazarBot.sendButtonText(m.chat, buttons, lowq, botname, m, {quoted: fkontak})
             	}
             break
