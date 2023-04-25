@@ -9178,7 +9178,120 @@ teks = `• مرحبا ياروحي ⤌⤈
  ꔹ━━━━━ꔹ
 ( .مانجا )
 ♚ صوره عشوائيه لـ مانجا`
+𓍹——————————𓍻
+𓆩اليك قائمة باوامر عمل اللوجو𓆪
 
+ملاحظه اكتب الامر ومسافه وحط اسمك انجلش 
+
+مثال : candy ESLAM.
+𓍹——————————𓍻
+╠
+╠.candy
+╠.8bit
+╠.horror
+╠.hoorror
+╠.retro
+╠.blackpinkneon
+╠.deepsea
+╠.scifi
+╠.fiction
+╠.berry
+╠.fruitjuice
+╠.biscuit
+╠.wood
+╠.chocolate
+╠.matrix
+╠.blood
+╠.halloween
+╠.wicker
+╠.darkgold
+╠.firework
+╠.skeleton
+╠.sand
+╠.glue
+╠.leaves
+╠.magma
+╠.lava
+╠.rockart
+╠.bloodglas
+╠.underwater
+╠.textmaker
+╠.honey
+╠.ice
+╠.watercolor
+╠.multicolor
+╠.snow
+╠.harrypot
+╠.harrypotter
+╠.brokenglass
+╠.waterpipe
+╠.spooky
+╠.circuit
+╠.metallic
+╠.demon
+╠.sparklechristmas
+╠.christmas
+╠.3dchristmas
+╠.3dbox
+╠.waterdrop
+╠.lion2
+╠.papercut
+╠.transformer
+╠.neondevil
+╠.3davengers
+╠.3dstone
+╠.3dstone2
+╠.summertime
+╠.thunder
+╠.window
+╠.graffiti
+╠.graffitibike
+╠.pornhub
+╠.glitch
+╠.blackpinkart
+╠.glitch2
+╠.glitch3
+╠.3dspace
+╠.lion
+╠.3dneon
+╠.greenneon
+╠.bokeh
+╠.holographic
+╠.bear
+╠.wolf
+╠.joker
+╠.dropwater
+╠.dropwater2
+╠.thewall
+╠.neonlight
+╠.natural
+╠.carbon
+╠.pencil
+╠.blackpink2
+╠.neon
+╠.neonlight2
+╠.toxic
+╠.strawberry
+╠.discovery
+╠.1917
+╠ .sci_fi
+╠  .ancient
+╠ .fabric
+╠ .hoorror
+╠ .whitebear
+╠ .juice
+╠ .batman
+╠ .multicolor
+╠ .wonderful
+╠ .sketch
+╠ .marvel
+╠ .fogg
+╠ .writing
+╠ .halloweefire
+╠ .halloween
+╠ .watercolor
+╠ .classic
+╚════════════
 let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
@@ -9224,6 +9337,7 @@ teks = `•╗ مرحبا ياعزيزي ⤌⤈
 ( .م6 ) ☞ اوامر تغيير الصوت
 ( .م7 ) ☞ اوامر التسليه
 ( .م8 ) ☞ لعرض جميع الاومر
+( .9م ) ☞اوامر اللجوهات
 .المميزات ☞ لعرض مميزات البوت
 .المطور ☞ لعرض مطور البوت
 .السورس ☞ لعرض المبرمج`
@@ -9250,12 +9364,12 @@ ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
 }
             break
             break
-            case 'command': {
+            case 'اختار اوامر': {
 	const sections = [{
 								"title": "Initial Features Of Bot 🦄",
 								"rows": [
 									{
-										"title": "Other ☕",
+										"title": "😂حجات هبله",
 										"description": "Displays The List Of Other Features",
 										"rowId": `${prefix}othermenu`
 									}
@@ -9265,114 +9379,114 @@ ElgazarBot.sendMessage(m.chat, buttonMessage, { quoted: m })
 								"title": "Bot Features ❤️",
 								"rows": [
 									{
-										"title": "All Menu 🥀",
+										"title": "💃جميع الاوامر",
 										"description": "Displays The List Of All The Features!",
 										"rowId": `${prefix}allmenu`
 									},
 									{
-										"title": "Owner Menu 💠",
+										"title": "☺️اوامر الزعيم",
 										"description": "Displays The List Of Owner Features",
 										"rowId": `${prefix}ownermenu`
 										},
 									{
-										"title": "Group Menu ✨",
+										"title": "💃اوامر الجروب",
 										"description": "Displays The List Of Main Features",
 										"rowId": `${prefix}groupmenu`
 										},
 										{
-										"title": "Maker Menu 🌈",
+										"title": "💕اوامر اللوجو",
 										"description": "Displays The List Of Logo Making Features",
 										"rowId": `${prefix}makermenu`
 									},
 									{
-										"title": "Sound Menu 🎵",
+										"title": "🎵اوامر الأغاني الأجنبيه",
 										"description": "Displays The List Of Sound Features",
 										"rowId": `${prefix}soundmenu`
 									},
 									{
-										"title": "Download Menu ↘️",
+										"title": "🌚اوامر التحميل",
 										"description": "Displays The List Of Download Features",
 										"rowId": `${prefix}downloadmenu`
 									},
 									{
-										"title": "Sticker Menu 🃏",
+										"title": "🦅اوامر الاستيكر",
 										"description": "Displays The List Of Sticker Features",
 										"rowId": `${prefix}stickermenu`
 									},
 									{
-										"title": "Search Menu 🔎",
+										"title": "🔎اوامر البحث",
 										"description": "Displays The List Of Searching Features",
 										"rowId": `${prefix}searchmenu`
 									},
 									{
-										"title": "Random Image Menu 🌆",
+										"title": "💃اوامر الصور",
 										"description": "Displays The List Of Random Image Features",
 										"rowId": `${prefix}randomimagemenu`
 									},
 									{
-										"title": "Random Video Menu 🌆",
+										"title": "🎦اوامر الفيديو",
 										"description": "Displays The List Of Random Video Features",
 										"rowId": `${prefix}randomvideomenu`
 									},
 									{
-										"title": "Image Effect Menu 🖼️",
+										"title": "شيل الصورة من الخلفية",
 										"description": "Displays The List Of Image Effect Features",
 										"rowId": `${prefix}imageeffectmenu`
 									},
 										{
-											"title": "Anime Menu 😘",
+											"title": "اوامر الانمي",
 										"description": "Displays The List Of Random Anime Features",
 										"rowId": `${prefix}animemenu`
 										},
 										{
-											"title": "Emote Menu 😀",
+											"title": "اوامر الايمو الفاخر",
 										"description": "Displays The List Of Emote Features",
 										"rowId": `${prefix}emotemenu`
 										},
 										{
-										"title": "Anime Sticker Menu ☺️",
+										"title": "صور انمي",
 										"description": "Displays The List Of Anime Sticker Features",
 										"rowId": `${prefix}animestickermenu`
 									     },
 									{
-										"title": "Nsfw Menu 🤓",
+										"title": "🙂ملكش دعوه بيها",
 										"description": "Displays The List Of Nsfe Features",
 										"rowId": `${prefix}nsfwmenu`
 									     },
 										{
-											"title": "Fun Menu 🕺",
+											"title": "😂ضحك",
 										"description": "Displays The List Of Fun Features",
 										"rowId": `${prefix}funmenu`
 										},
 										{
-										"title": "Game Menu 🎮",
+										"title": "🎮اوامر الالعاب",
 										"description": "Displays The List Of Game Features",
 										"rowId": `${prefix}gamemenu`
 									},
 										{
-											"title": "Convert Menu ⚒️",
+											"title": "اوامر الصوت الاستيك",
 										"description": "Displays The List Of Convert Features",
 										"rowId": `${prefix}convertmenu`
 										},
 										{
-											"title": "Database Menu ♻️",
+											"title": "♻️داتا بيس",
 										"description": "Displays The List Of Database Features",
 										"rowId": `${prefix}databasemenu`
 										},
 										{
-										"title": "Other Menu 🐸",
+										"title": "🐸اوامر تانيه",
 										"description": "Displays The List Miscellaneous Features",
 										"rowId": `${prefix}othermenu`
 									     },
 										{
-										"title": "War Menu☣️",
+										"title": "☣️ملكش دعوه بيه",
 										"description": "Displays The List Of War Features",
 										"rowId": `${prefix}warmenu`
 									}
 								]
 							},
 							{
-								"title": "Chat With Fellow Users 🌝",
+								"title": "🌝كلم واحد متعرفهوش",
 								"rows": [
 									{
 										"title": "Anonymous Chat Menu 🏻‍♂️",
@@ -10164,7 +10278,7 @@ const buttonMessage = {
 const sendMsg = await ElgazarBot.sendMessage(m.chat, buttonMessage)
 }
 break
-            case 'groupmenu':{
+            case '💃اوامرالجروب':{
 var unicorn = await getBuffer(picak+'Group Menu')
 
 const buttons = [
@@ -10738,7 +10852,7 @@ const buttonMessage = {
 const sendMsg = await ElgazarBot.sendMessage(m.chat, buttonMessage)
 }
 break 
-case 'nsfwmenu':{
+case 'ملكش دعوه بيها':{
 var unicorn = await getBuffer(picak+'Nsfw Menu')
 
 const buttons = [
@@ -10748,60 +10862,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╔═══════✪ NSFW 	
-╠${prefix}gifhentai
-╠${prefix}gifblowjob
-╠${prefix}hentaivideo
-╠${prefix}hneko
-╠${prefix}nwaifu
-╠${prefix}animespank
-╠${prefix}trap
-╠${prefix}gasm
-╠${prefix}ahegao
-╠${prefix}ass
-╠${prefix}bdsm
-╠${prefix}blowjob
-╠${prefix}cuckold
-╠${prefix}cum
-╠${prefix}milf
-╠${prefix}eba
-╠${prefix}ero
-╠${prefix}femdom
-╠${prefix}foot
-╠${prefix}gangbang
-╠${prefix}glasses
-╠${prefix}hentai
-╠${prefix}jahy
-╠${prefix}manga
-╠${prefix}masturbation
-╠${prefix}neko-hentai
-╠${prefix}neko-hentai2
-╠${prefix}nsfwloli
-╠${prefix}orgy
-╠${prefix}panties
-╠${prefix}pussy
-╠${prefix}tentacles
-╠${prefix}thights
-╠${prefix}yuri
-╠${prefix}zettai
-╚═════════════✪`,
-    footer: `${botname}`,
-    buttons: buttons,
-    headerType: 4
-}
-const sendMsg = await ElgazarBot.sendMessage(m.chat, buttonMessage)
-}
-break
-case 'funmenu':{
-var unicorn = await getBuffer(picak+'Fun Menu')
-
-const buttons = [
-  {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
-  {buttonId: 'donate', buttonText: {displayText: 'Donate 🍵'}, type: 1},
-  {buttonId: 'owner', buttonText: {displayText: 'Owner 🤣'}, type: 1}
-]
-const buttonMessage = {
-    image: unicorn,
+    caption: `🙂مش قولنا  ملكش دعوه بيها
     caption: `╔═══════✪ Fun 
 ╠ ${prefix}say [text]	
 ╠ ${prefix}define [text]
@@ -11191,37 +11252,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╔═══════✪「 BUG MENU 」	
-╠════☾pc attack☽
-╠${prefix}pcbut [number]
-╠${prefix}pcvn [number]
-╠${prefix}pcstick [number]
-╠${prefix}pcfast [number]
-╠${prefix}pcslow [number]
-╠${prefix}pcbunny [number]
-╠${prefix}xcrasher [amount]
-╠${prefix}pccontact [amount]
-╠${prefix}virtex5 [amount]
-╠${prefix}flower [amount]
-╠${prefix}pollbug [amount]
-╠${prefix}catalogbug [amount]
-╠${prefix}trollybug [amount]
-╠${prefix}trollybug2 [amount]
-╠════☾gc attack☽
-╠${prefix}gcslow
-╠${prefix}gcfast
-╠${prefix}gcbunny
-╠${prefix}tagallbug
-╠════☾pc & gc attack☽
-╠${prefix}vnbug [amount]
-╠${prefix}docbug [amount]
-╠${prefix}pcgcslow [number]
-╠${prefix}pcgcfast [number]
-╠${prefix}pcgcbunny [number]
-╠${prefix}textshot
-╠${prefix}docfuck [amount]
-╠${prefix}docsoft [amount]
-╠${prefix}docsoft2 [amount]
+    caption: `╔═══════✪「 BUG MENU  」
 ╚═════════════✪`,
     footer: `${botname}`,
     buttons: buttons,
