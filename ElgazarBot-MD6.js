@@ -3038,7 +3038,7 @@ if (!q.includes('tiktok')) return m.reply(`الرابط خطأ!`)
 m.reply(mess.wait)
 require('./lib/tiktok').Tiktok(q).then( data => {
     var button = [{ buttonId: `tiktokaudio ${q}`, buttonText: { displayText: `صوتي‡` }, type: 1 }, { buttonId: `menu`, buttonText: { displayText: `الاوامر✨` }, type: 1 }]
-ElgazarBot.sendMessage(m.chat, { caption: `حقوق: ᴇʟɢᴀᴢᴀʀ_ᴀʟᴡᴀᴢᴇʀ`, video: { url: data.watermark }, buttons: button, footer: botname, mentions: [sender] })
+ElgazarBot.sendMessage(m.chat, { caption: `حقوق:eslam al bossᴀʟᴡᴀᴢᴇʀ `, video: { url: data.watermark }, buttons: button, footer: botname, mentions: [sender] })
 })
 }
 break
